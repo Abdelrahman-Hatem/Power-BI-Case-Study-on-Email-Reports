@@ -21,7 +21,7 @@
 
 ## Tools Used:
 #### - Power BI was employed for data visualization and analysis due to its capability to handle large datasets and create interactive reports.
-
+#### - Figma: Utilized for designing and prototyping dashboard layouts and user interface elements.
 
 
 https://github.com/Abdelrahman-Hatem/Power-BI-Case-Study-on-Email-Reports/assets/60587162/d359e629-73af-4790-afd7-57daf8d27e13
